@@ -1,0 +1,69 @@
+/* Web Font CSS declaration for Church Slavonic fonts */
+/* Slavonic Computing Initiative (http://sci.ponomar.net/) */
+
+@font-face {
+    font-family: 'Ponomar Unicode';
+    src: url('../fonts/PonomarUnicode.eot');
+    src: url('../fonts/PonomarUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PonomarUnicode.woff2') format('woff2'),
+	url('../fonts/PonomarUnicode.woff') format('woff'),
+	url('../fonts/PonomarUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fedorovsk Unicode';
+    src: url('../fonts/FedorovskUnicode.eot');
+    src: url('../fonts/FedorovskUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/FedorovskUnicode.woff2') format('woff2'),
+	url('../fonts/FedorovskUnicode.woff') format('woff'),
+	url('../fonts/FedorovskUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Menaion Unicode';
+    src: url('../fonts/MenaionUnicode.eot');
+    src: url('../fonts/MenaionUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/MenaionUnicode.woff2') format('woff2'),
+	url('../fonts/MenaionUnicode.woff') format('woff'),
+	url('../fonts/MenaionUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monomakh Unicode';
+    src: url('../fonts/MonomakhUnicode.eot');
+    src: url('../fonts/MonomakhUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/MonomakhUnicode.woff2') format('woff2'),
+	url('../fonts/MonomakhUnicode.woff') format('woff'),
+	url('../fonts/MonomakhUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Indiction Unicode';
+    src: url('../fonts/IndictionUnicode.eot');
+    src: url('../fonts/IndictionUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/IndictionUnicode.woff2') format('woff2'),
+	url('../fonts/IndictionUnicode.woff') format('woff'),
+	url('../fonts/IndictionUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pomorsky Unicode';
+    src: url('../fonts/PomorskyUnicode.eot');
+    src: url('../fonts/PomorskyUnicode.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/PomorskyUnicode.woff2') format('woff2'),
+	url('../fonts/PomorskyUnicode.woff') format('woff'),
+	url('../fonts/PomorskyUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

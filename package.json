@@ -1,0 +1,19 @@
+{
+  "name": "church-slavonic-fonts",
+  "version": "1.0.0",
+  "description": "Church Slavonic Fonts and CSS",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavonic/node-church-slavonic-fonts.git"
+  },
+  "keywords": [
+    "church slavonic",
+    "font"
+  ],
+  "author": "Slavonic Computing Initiative",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slavonic/node-church-slavonic-fonts/issues"
+  },
+  "homepage": "https://github.com/slavonic/node-church-slavonic-fonts#readme"
+}
